@@ -1,5 +1,5 @@
 ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<section id="themes">
-	<h2>Themes</h2>
+	<h2>Temas</h2>
 		<p>
 			Set your presentation theme: <br>
 			<!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. -->
