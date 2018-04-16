@@ -1,8 +1,8 @@
 ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<section id="themes">
 	<h2>Temas</h2>
 		<p>
-		Set your presentation theme: <br>
-			<!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. 		
+		Selecciona tu tema de presentacion: <br>
+				
 			<!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. -->
                         <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/black.css'); return false;">Black (default)</a> -
 			<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/white.css'); return false;">White</a> -
